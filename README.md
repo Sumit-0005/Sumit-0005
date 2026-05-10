@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MERN Stack, AI, and Open Source Projects  
 - 🤔 I’m looking for help with Scaling AI Systems & Production Architectures  
 - 💬 Ask me about MERN Stack, AI Projects, and Full-Stack Development  
-- 📫 How to reach me: sumitkakani0011@gmail.com  
+- 📫 How to reach me: sumitkakani0011@gmail.com / Portfolio : https://portfolio-main-01.vercel.app/ 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love building real-world AI systems and participating in hackathons 🚀  
 -->
